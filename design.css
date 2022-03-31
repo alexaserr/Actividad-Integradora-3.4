@@ -1,0 +1,167 @@
+.title{
+    color: black;
+    font-size: 20pt;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Number{
+    background-color: pink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Identifier{
+    background-color: lavender;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Keyword{
+    background-color: orchid;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.OPENpar{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.CLOSEpar{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.OPENcurly{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.CLOSEcurly{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.OPENsquare{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.CLOSEsquare{
+    background-color: lightcoral;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.LessThan{
+    background-color: lightgreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.MoreThan{
+    background-color: lightgreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Equal{
+    background-color: lightgreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Addition{
+    background-color: lightseagreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Substraction{
+    background-color: lightseagreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Multiplication{
+    background-color: lightseagreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Division{
+    background-color: lightseagreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Power{
+    background-color: lightseagreen;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Comment{
+    background-color: lightcyan;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Comma{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Colon{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Semicolon{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Pipe{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Dot{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Quote{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Space{
+    background-color: lightpink;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.End{
+    background-color: red;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Unexpected{
+    background-color: red;
+    font-size: 12;
+    font-family:'Times New Roman', Times, serif;
+}
